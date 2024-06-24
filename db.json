@@ -1,0 +1,48 @@
+{
+  "teachers": [
+    {
+      "id": "1",
+      "firstname": "Jalol",
+      "lastname": "Ganiyev",
+      "level": "middle"
+    },
+    {
+      "id": "2",
+      "firstname": "Jalil",
+      "lastname": "Xalilov",
+      "level": "senior"
+    },
+    {
+      "id": "3",
+      "firstname": "Nurbek",
+      "lastname": "Alijanov",
+      "level": "junior"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "firstname": "Azizbek",
+      "lastname": "Shokiraliyev",
+      "level": "advanced"
+    },
+    {
+      "id": "2",
+      "firstname": "Shavkat",
+      "lastname": "Sobirov",
+      "level": "beginner"
+    },
+    {
+      "id": "3",
+      "firstname": "Ahror",
+      "lastname": "Anisjonov",
+      "level": "advanced"
+    },
+    {
+      "id": "4",
+      "firstname": "Jasur",
+      "lastname": "Ahmadjanov",
+      "level": "beginner"
+    }
+  ]
+}
